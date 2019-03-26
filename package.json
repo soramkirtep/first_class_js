@@ -1,0 +1,20 @@
+{
+  "name": "first_class_js",
+  "version": "1.0.0",
+  "description": "strv first class js practise",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soramkirtep/first_class_js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soramkirtep/first_class_js/issues"
+  },
+  "homepage": "https://github.com/soramkirtep/first_class_js#readme"
+}
